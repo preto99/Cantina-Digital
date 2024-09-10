@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+nav {
+    margin-bottom: 20px;
+}
+nav a {
+    margin-right: 10px;
+}
+.blue {
+    color: blue;
+}
+.red {
+    color: red;
+}
